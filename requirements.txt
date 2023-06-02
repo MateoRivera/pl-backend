@@ -1,0 +1,23 @@
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1666191106763/work/dist
+click @ file:///D:/bld/click_1666798499870/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+contourpy==1.0.7
+cycler==0.11.0
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1684266487947/work
+fonttools==4.39.4
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+kiwisolver==1.4.4
+matplotlib==3.7.1
+numpy==1.24.3
+packaging==23.1
+Pillow==9.5.0
+pydantic @ file:///D:/bld/pydantic_1679565458125/work
+pyparsing==3.0.9
+python-dateutil==2.8.2
+scipy==1.10.1
+six==1.16.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1684245096404/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1678559861143/work
+uvicorn @ file:///D:/bld/uvicorn-split_1682667993409/work
